@@ -19,7 +19,6 @@ O projeto utiliza "SQLite" como banco de dados local.
 * Flask
 * Flask-SQLAlchemy
 * HTML5
-* CSS3
 * SQLite
 
 ---
@@ -41,7 +40,6 @@ PJL_BANK
 * Explicação
 
 | Arquivo | Função |
-| ------------------------ | ----------------------------------- |
 | **app.py** | Arquivo principal do servidor Flask |
 | **site.db** | Banco de dados SQLite |
 | **templates/index.html**| Página de cadastro de clientes |
